@@ -1,0 +1,3 @@
+SELECT lastname,  firstname, memberID
+FROM Members ,Entry WHERE members.memberID=Entry.memberID NOT IN (Entry.y)
+AND y.year=2013;
