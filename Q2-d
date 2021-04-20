@@ -1,3 +1,2 @@
-        SELECT lastname,  firstname, memberID
-        FROM Members 
-        WHERE member.memberID=club.clubmemberID;
+        SELECT lastname,  firstname, memberID;
+        FROM Members WHERE member.memberID=club.clubmemberID;
