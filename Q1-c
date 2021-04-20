@@ -1,3 +1,3 @@
-Select gene,function_1,expr_value,metabolism
-FROM annotation,expression
-WHERE annotation = gene AND expression = gene
+Select gene,function_1,expr_value,metabolism;
+FROM annotation,expression;
+WHERE annotation = gene AND expression = gene;
