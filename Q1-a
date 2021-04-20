@@ -1,0 +1,24 @@
+Create expression
+       (gene VARCHAR(7) , expr_value INT(5));
+Insert into expression
+        (gene , expr_value) VALUES
+        (“alr1207” , “8303”);
+Insert into expression
+        (gene , expr_value) VALUES
+        (“alr2938” , “10323”);
+Insert into expression
+         (gene , expr_value) VALUES
+         (“alr3395” , “1432”);
+Insert into expression
+         (gene , expr_value) VALUES
+         (“alr3556” , “8043”);
+Insert into expression
+         (gene , expr_value) VALUES
+         (“alr4392” , “729”);
+Insert into expression
+         (gene , expr_value) VALUES
+         (“alr4851” , “633”);
+Insert into expression
+         (gene , expr_value) VALUES
+         (“alr5000” , “5732”);
+
