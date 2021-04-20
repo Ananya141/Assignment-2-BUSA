@@ -1,2 +1,2 @@
-SELECT lastname,  firstname, memberID
+SELECT lastname,  firstname, memberID;
 FROM Members;
