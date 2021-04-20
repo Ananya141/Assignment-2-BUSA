@@ -1,3 +1,3 @@
-SELECT lastname,  firstname, memberID
-FROM Members 
+SELECT lastname,  firstname, memberID;
+FROM Members;
 WHERE year=2013;
